@@ -112,8 +112,13 @@ while running:
     pygame.draw.rect(screen, WHITE, (0, HEIGHT // 2, WIDTH, HEIGHT // 2))
     draw_eskimo(screen, 600, 350)
     draw_cat(screen, 50, 450)
-    
+
     # Обновление экрана
     pygame.display.flip()
 
 pygame.quit()
+
+
+
+
+
