@@ -309,23 +309,23 @@ pygame.quit()
 Первое задание-картинка одинаковое у всех. Нарисовать злой смайлик.
 
 ```
-![Пример 1](images/po_labe2/laba2_ex1.png)
+![Пример 1](https://github.com/k0sh1k/PL_2026/blob/main/images/po_labe2/laba2_ex1.png?raw=true)
 ```
 
-### Задание №2 (Вариант 22)
+### Задание №2
 
 Второе задание-картинка по вариантам. Вариант 5.
 
 ```
-![Пример 2](images/po_labe2/laba2_ex2.png)
+![Пример 2](https://github.com/k0sh1k/PL_2026/blob/main/images/po_labe2/laba2_ex2.png?raw=true)
 ```
 
-### Задание №3 (Вариант 22)
+### Задание №3
 
 Третье задание является усложнённой версией второго. Вам придётся выполнить модификацию своей программы. Вариант 5.
 
 ```
-![Пример 3](images/po_labe2/laba2_ex3.png)
+![Пример 3](https://github.com/k0sh1k/PL_2026/blob/main/images/po_labe2/laba2_ex3.png?raw=true)
 ```
 
 ---
