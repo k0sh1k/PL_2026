@@ -308,7 +308,7 @@ pygame.quit()
 
 Первое задание-картинка одинаковое у всех. Нарисовать злой смайлик.
 
-```
+
 ![Пример 1](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex1.png)
 ```
 
@@ -316,8 +316,8 @@ pygame.quit()
 
 Второе задание-картинка по вариантам. Вариант 5.
 
-```
-<img src="https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex1.png" width="500">
+
+![](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex2.png)
 ```
 
 ### Задание №3
