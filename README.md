@@ -310,23 +310,23 @@ pygame.quit()
 
 
 ![Пример 1](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex1.png)
-```
+
 
 ### Задание №2
 
 Второе задание-картинка по вариантам. Вариант 5.
 
 
-![](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex2.png)
-```
+![Пример 2](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex2.png)
+
 
 ### Задание №3
 
 Третье задание является усложнённой версией второго. Вам придётся выполнить модификацию своей программы. Вариант 5.
 
-```
+
 ![Пример 3](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex3.png)
-```
+
 
 ---
 
