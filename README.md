@@ -317,7 +317,7 @@ pygame.quit()
 Второе задание-картинка по вариантам. Вариант 5.
 
 ```
-![Пример 2](https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex2.png)
+<img src="https://raw.githubusercontent.com/k0sh1k/PL_2026/main/images/po_labe2/laba2_ex1.png" width="500">
 ```
 
 ### Задание №3
