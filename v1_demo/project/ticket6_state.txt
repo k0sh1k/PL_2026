@@ -1,0 +1,51 @@
+# Билет №6 — состояние (Вариант 3), посчитано решателем
+# Орбиты двух звёзд пересекаются (умеренно); планеты не сталкиваются
+# Star R цвет x y | Planet/Satellite R цвет star_id cx cy orbit_r k phase
+
+# ЗВЕЗДА 1
+Star 12 yellow -200.0 0.0
+Planet 3 deepskyblue 1 -200.0 0.0 127.0 -3 5.236578
+Planet 3 deepskyblue 1 -200.0 0.0 134.0 15 1.352660
+Planet 3 deepskyblue 1 -200.0 0.0 141.0 -8 2.437857
+Planet 3 deepskyblue 1 -200.0 0.0 148.0 13 3.197454
+Planet 3 deepskyblue 1 -200.0 0.0 155.0 -6 3.793137
+Planet 3 deepskyblue 1 -200.0 0.0 162.0 17 3.363688
+Planet 3 deepskyblue 1 -200.0 0.0 169.0 -2 4.383004
+Planet 3 deepskyblue 1 -200.0 0.0 176.0 18 5.526100
+Satellite 2 white 1 -200.0 0.0 182.0 18 6.205773
+Planet 3 deepskyblue 1 -200.0 0.0 183.0 -4 2.950116
+Planet 3 deepskyblue 1 -200.0 0.0 190.0 15 1.917825
+Satellite 2 white 1 -200.0 0.0 196.0 7 0.497186
+Planet 3 deepskyblue 1 -200.0 0.0 197.0 -11 5.990494
+Planet 3 deepskyblue 1 -200.0 0.0 204.0 15 2.081091
+Planet 3 deepskyblue 1 -200.0 0.0 211.0 -17 1.666576
+Satellite 2 white 1 -200.0 0.0 217.0 -10 4.507739
+Planet 3 deepskyblue 1 -200.0 0.0 218.0 9 3.500337
+Planet 3 deepskyblue 1 -200.0 0.0 225.0 -4 4.899847
+Planet 3 deepskyblue 1 -200.0 0.0 232.0 10 1.158196
+
+# ЗВЕЗДА 2
+Star 12 orange 200.0 0.0
+Planet 3 orangered 2 200.0 0.0 125.5 -1 4.554570
+Planet 3 orangered 2 200.0 0.0 131.0 11 2.813342
+Planet 3 orangered 2 200.0 0.0 136.5 -1 4.314442
+Planet 3 orangered 2 200.0 0.0 142.0 17 1.560761
+Planet 3 orangered 2 200.0 0.0 147.5 -16 0.276788
+Planet 3 orangered 2 200.0 0.0 153.0 1 0.615908
+Planet 3 orangered 2 200.0 0.0 158.5 -6 0.406798
+Planet 3 orangered 2 200.0 0.0 164.0 17 4.216732
+Planet 3 orangered 2 200.0 0.0 169.5 -2 5.171207
+Planet 3 orangered 2 200.0 0.0 175.0 10 1.780767
+Satellite 2 white 2 200.0 0.0 181.0 13 3.677263
+Planet 3 orangered 2 200.0 0.0 180.5 -3 1.573860
+Planet 3 orangered 2 200.0 0.0 186.0 8 3.730033
+Planet 3 orangered 2 200.0 0.0 191.5 -10 4.919487
+Planet 3 orangered 2 200.0 0.0 197.0 6 4.689328
+Planet 3 orangered 2 200.0 0.0 202.5 -10 1.102740
+Satellite 2 white 2 200.0 0.0 208.5 -9 2.368904
+Planet 3 orangered 2 200.0 0.0 208.0 12 3.800031
+Planet 3 orangered 2 200.0 0.0 213.5 -3 3.465191
+Planet 3 orangered 2 200.0 0.0 219.0 14 1.473742
+Planet 3 orangered 2 200.0 0.0 224.5 -6 0.380139
+Planet 3 orangered 2 200.0 0.0 230.0 10 3.159409
+Satellite 2 white 2 200.0 0.0 236.0 14 0.604562
