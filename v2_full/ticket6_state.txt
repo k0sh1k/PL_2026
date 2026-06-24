@@ -1,0 +1,50 @@
+# Билет №6 — состояние (Вариант 2, параметрический)
+# Star R цвет x y | Planet/Satellite R цвет star_id cx cy orbit_r k phase
+
+# ЗВЕЗДА 1
+Star 12 yellow -214.2 0.0
+Planet 4 deepskyblue 1 -214.2 0.0 127.0 -1 3.519701
+Planet 4 deepskyblue 1 -214.2 0.0 134.0 14 0.853639
+Planet 4 deepskyblue 1 -214.2 0.0 141.0 -3 0.494083
+Planet 4 deepskyblue 1 -214.2 0.0 148.0 4 4.179838
+Planet 4 deepskyblue 1 -214.2 0.0 155.0 -16 1.525057
+Planet 4 deepskyblue 1 -214.2 0.0 162.0 14 5.153120
+Planet 4 deepskyblue 1 -214.2 0.0 169.0 -3 2.216810
+Planet 4 deepskyblue 1 -214.2 0.0 176.0 3 2.911548
+Satellite 3 white 1 -214.2 0.0 182.0 15 0.897394
+Planet 4 deepskyblue 1 -214.2 0.0 183.0 -5 3.297815
+Planet 4 deepskyblue 1 -214.2 0.0 190.0 18 4.374328
+Satellite 3 white 1 -214.2 0.0 196.0 8 3.917029
+Planet 4 deepskyblue 1 -214.2 0.0 197.0 -6 2.792199
+Planet 4 deepskyblue 1 -214.2 0.0 204.0 10 1.887784
+Planet 4 deepskyblue 1 -214.2 0.0 211.0 -7 2.236935
+Satellite 3 white 1 -214.2 0.0 217.0 -14 4.427412
+Planet 4 deepskyblue 1 -214.2 0.0 218.0 18 2.180828
+Planet 4 deepskyblue 1 -214.2 0.0 225.0 -4 0.729182
+Planet 4 deepskyblue 1 -214.2 0.0 232.0 8 3.265347
+
+# ЗВЕЗДА 2
+Star 12 orange 214.2 0.0
+Planet 4 orangered 2 214.2 0.0 125.5 -17 4.531365
+Planet 4 orangered 2 214.2 0.0 131.0 5 1.368630
+Planet 4 orangered 2 214.2 0.0 136.5 -6 1.913057
+Planet 4 orangered 2 214.2 0.0 142.0 9 1.388718
+Planet 4 orangered 2 214.2 0.0 147.5 -5 5.560959
+Planet 4 orangered 2 214.2 0.0 153.0 8 4.348466
+Planet 4 orangered 2 214.2 0.0 158.5 -16 5.081613
+Planet 4 orangered 2 214.2 0.0 164.0 12 5.969772
+Planet 4 orangered 2 214.2 0.0 169.5 -10 1.761874
+Planet 4 orangered 2 214.2 0.0 175.0 17 3.173631
+Satellite 3 white 2 214.2 0.0 181.0 5 0.636653
+Planet 4 orangered 2 214.2 0.0 180.5 -16 0.268255
+Planet 4 orangered 2 214.2 0.0 186.0 15 5.822769
+Planet 4 orangered 2 214.2 0.0 191.5 -2 1.216149
+Planet 4 orangered 2 214.2 0.0 197.0 8 5.576022
+Planet 4 orangered 2 214.2 0.0 202.5 -15 6.157356
+Satellite 3 white 2 214.2 0.0 208.5 -10 6.247106
+Planet 4 orangered 2 214.2 0.0 208.0 16 4.564082
+Planet 4 orangered 2 214.2 0.0 213.5 -18 2.816303
+Planet 4 orangered 2 214.2 0.0 219.0 11 1.204393
+Planet 4 orangered 2 214.2 0.0 224.5 -14 0.230593
+Planet 4 orangered 2 214.2 0.0 230.0 4 5.874800
+Satellite 3 white 2 214.2 0.0 236.0 12 4.639214
